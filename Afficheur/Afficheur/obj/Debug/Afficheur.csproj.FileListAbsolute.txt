@@ -1,0 +1,56 @@
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\bin\Debug\Afficheur.exe.config
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\bin\Debug\Afficheur.exe
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\bin\Debug\Afficheur.pdb
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.csprojResolveAssemblyReference.cache
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\MainWindow.baml
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\MainWindow.g.cs
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\App.g.cs
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur_MarkupCompile.cache
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.g.resources
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.Properties.Resources.resources
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.csproj.GenerateResource.Cache
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.exe
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.pdb
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\bin\Debug\ExifLibrary.dll
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Diaporama.baml
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Diaporama.g.cs
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\bin\Debug\Afficheur.exe.config
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.csprojResolveAssemblyReference.cache
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Diaporama.baml
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\MainWindow.baml
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Diaporama.g.cs
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\MainWindow.g.cs
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\App.g.cs
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur_MarkupCompile.cache
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.g.resources
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.Properties.Resources.resources
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.csproj.GenerateResource.Cache
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\bin\Debug\Afficheur.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\bin\Debug\Afficheur.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM\Afficheur\Afficheur\bin\Debug\ExifLibrary.dll
+C:\Users\Antoine\Desktop\PROJET IHM\Afficheur\Afficheur\bin\Debug\Afficheur.exe.config
+C:\Users\Antoine\Desktop\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.exe
+C:\Users\Antoine\Desktop\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.pdb
+C:\Users\Antoine\Desktop\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur.csprojResolveAssemblyReference.cache
+C:\Users\Antoine\Desktop\PROJET IHM\Afficheur\Afficheur\obj\Debug\Diaporama.baml
+C:\Users\Antoine\Desktop\PROJET IHM\Afficheur\Afficheur\obj\Debug\MainWindow.baml
+C:\Users\Antoine\Desktop\PROJET IHM\Afficheur\Afficheur\obj\Debug\Diaporama.g.cs
+C:\Users\Antoine\Desktop\PROJET IHM\Afficheur\Afficheur\obj\Debug\MainWindow.g.cs
+C:\Users\Antoine\Desktop\PROJET IHM\Afficheur\Afficheur\obj\Debug\App.g.cs
+C:\Users\Antoine\Desktop\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur_MarkupCompile.cache
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM 2\Afficheur\Afficheur\bin\Debug\Afficheur.exe.config
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM 2\Afficheur\Afficheur\obj\Debug\Afficheur.exe
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM 2\Afficheur\Afficheur\obj\Debug\Afficheur.pdb
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM 2\Afficheur\Afficheur\obj\Debug\Afficheur.csprojResolveAssemblyReference.cache
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM 2\Afficheur\Afficheur\obj\Debug\Diaporama.baml
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM 2\Afficheur\Afficheur\obj\Debug\MainWindow.baml
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM 2\Afficheur\Afficheur\obj\Debug\Diaporama.g.cs
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM 2\Afficheur\Afficheur\obj\Debug\MainWindow.g.cs
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM 2\Afficheur\Afficheur\obj\Debug\App.g.cs
+D:\Guillaume\Documents\Cours\DUT 1ere année\S2\IHM\PROJET IHM 2\Afficheur\Afficheur\obj\Debug\Afficheur_MarkupCompile.cache
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\BrowserControl.g.cs
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\GeneratedInternalTypeHelper.g.cs
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\Afficheur_MarkupCompile.lref
+Z:\S2\IHM\PROJET IHM\Afficheur\Afficheur\obj\Debug\BrowserControl.baml
